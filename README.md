@@ -1,34 +1,35 @@
-### Hola soy Daniel Valdez y soy Tecnico Superior Universitario egresado de la Universidad de Nezahualcoyolt y soy desarrollador backend 👋,
+### Hola soy Daniel Valdez, Soy Desarrollador backend 👋. 
+### Soy Técnico Superior Universitario, egresado de la Universidad Tecnologica de Nezahualcoyolt.
 Tengo experiencia en el despligue de soluciones en la nube. Actualmente me estoy inclinando hacia un perfil como desarrollador backend.
 
 ### Las tecnologias que ocupo son: 
   ### Lenguajes de programacion
-    Nodejs
-    Java
+    NodeJS 14.17.0
+    Java 1.8
    
   ### Frameworks
     Express
     React
    
   ### Servidores de bases de datos
-    Mysql
-    Postgresql
-    MongoDB
+    Mysql 8.0
+    Postgresql 12.0
+    MongoDB 
   
   ### sql nativo con Nodejs
-   mysql2
+   Mysql2
   
   ### ORM
-  sequelize
+  Sequelize 5.0
   
   ### Desarrollo web
   
   ### Empaquetamiento de aplicaciones
-    webpack
+    Webpack
   
   ### Transpiladores de código
-    babel
-    scss
+    Babel
+    SCSS
     
   ### Estandares web
     HTML5
@@ -40,16 +41,17 @@ Tengo experiencia en el despligue de soluciones en la nube. Actualmente me estoy
   Vim
   Visual Studio Code
   
-  ### mis programas favoritos son:
-   ssh
-   tmux
+  ### Mis programas favoritos son:
+   Ssh
+   Tmux
+   Docker
    
 ![image](https://user-images.githubusercontent.com/51674961/119572098-dd826400-bd77-11eb-99d7-51543dfdb11f.png)
 
 Actualmente soy estudiante en la Universidad Tecnologica de Nezahualcoyolt. Estoy cursando el 9.- cuatrimestre de la Ingenieria
 En Tecnologias de la Informacion en el Area Sistemas Informaticos.
 
-Actualemente estoy aprendiendo a desarrollar con un ORM llamado sequelize
+Actualemente estoy aprendiendo a programar usando un ORM para NodeJS llamado sequelize.
 <!--
 **dantorres45/dantorres45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
