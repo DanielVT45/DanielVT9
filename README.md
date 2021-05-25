@@ -1,4 +1,4 @@
-### Hola soy Daniel Valdez y soy desarrollador backend 👋. Tengo
+### Hola soy Daniel Valdez y soy Tecnico Superior Universitario egresado de la Universidad de Nezahualcoyolt y soy desarrollador backend 👋,
 Tengo experiencia en el despligue de soluciones en la nube. Actualmente me estoy inclinando hacia un perfil como desarrollador backend.
 
 Las tecnologias con las cuales programo son: 
@@ -35,7 +35,10 @@ Las tecnologias con las cuales programo son:
   
 ![image](https://user-images.githubusercontent.com/51674961/119572098-dd826400-bd77-11eb-99d7-51543dfdb11f.png)
 
+Actualmente soy estudiante en la Universidad Tecnologica de Nezahualcoyolt. Estoy cursando el 9.- cuatrimestre de la Ingenieria
+En Tecnologias de la Informacion en el Area Sistemas Informaticos.
 
+Actualemente estoy aprendiendo a desarrollar con un ORM llamado sequelize
 <!--
 **dantorres45/dantorres45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
