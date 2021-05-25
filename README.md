@@ -1,38 +1,49 @@
 ### Hola soy Daniel Valdez y soy Tecnico Superior Universitario egresado de la Universidad de Nezahualcoyolt y soy desarrollador backend 👋,
 Tengo experiencia en el despligue de soluciones en la nube. Actualmente me estoy inclinando hacia un perfil como desarrollador backend.
 
-Las tecnologias con las cuales programo son: 
-  Lenguajes de programacion
+### Las tecnologias que ocupo son: 
+  ### Lenguajes de programacion
     Nodejs
+    Java
    
-  Servidores de bases de datos
+  ### Frameworks
+    Express
+    React
+   
+  ### Servidores de bases de datos
     Mysql
     Postgresql
-    Mongo
+    MongoDB
   
-  ORM
+  ### sql nativo con Nodejs
+   mysql2
+  
+  ### ORM
   sequelize
   
-  Desarrollo web
+  ### Desarrollo web
   
-  Empaquetamiento de aplicaciones
+  ### Empaquetamiento de aplicaciones
     webpack
   
-  Transpiladores de codigo
+  ### Transpiladores de código
     babel
     scss
     
-  Estandares web
+  ### Estandares web
     HTML5
     Javascript
     CSS3
     
   
-  Mi editores de texto favoritos son:
-  vim
+  ### Mi editores de texto favoritos son:
+  Vim
   Visual Studio Code
   
-  
+  ### mis programas favoritos son:
+   ssh
+   tmux
+   
 ![image](https://user-images.githubusercontent.com/51674961/119572098-dd826400-bd77-11eb-99d7-51543dfdb11f.png)
 
 Actualmente soy estudiante en la Universidad Tecnologica de Nezahualcoyolt. Estoy cursando el 9.- cuatrimestre de la Ingenieria
